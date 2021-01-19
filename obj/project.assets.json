@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luana e Regis\\Desktop\\Segundo Semestre Senai\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\Luana e Regis\\Desktop\\Segundo Semestre Senai\\Backend---Eplayers\\EPlayers_AspNetCore.csproj",
       "projectName": "EPlayers_AspNetCore",
-      "projectPath": "C:\\Users\\Luana e Regis\\Desktop\\Segundo Semestre Senai\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
+      "projectPath": "C:\\Users\\Luana e Regis\\Desktop\\Segundo Semestre Senai\\Backend---Eplayers\\EPlayers_AspNetCore.csproj",
       "packagesPath": "C:\\Users\\Luana e Regis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luana e Regis\\Desktop\\Segundo Semestre Senai\\EPlayers_AspNetCore\\obj\\",
+      "outputPath": "C:\\Users\\Luana e Regis\\Desktop\\Segundo Semestre Senai\\Backend---Eplayers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

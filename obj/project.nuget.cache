@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pcS9bIWCcKtS+vDSv74dvIxOF72ZW3iEs4XUztJ12Q/nEu6lsWIBJQ9rw9bSbRA1lDOPbJNDgYr7EmbmEl0xDQ==",
+  "dgSpecHash": "iI8WaDpHsgO9v9HwajWFu9rfQ5aKMGx0dYLZE1A3Wb+HPF21UAgxn3dhAahQOemiEIc6+VtLt5p1zfoWPCYYxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luana e Regis\\Desktop\\Segundo Semestre Senai\\EPlayers_AspNetCore\\EPlayers_AspNetCore.csproj",
+  "projectFilePath": "C:\\Users\\Luana e Regis\\Desktop\\Segundo Semestre Senai\\Backend---Eplayers\\EPlayers_AspNetCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
